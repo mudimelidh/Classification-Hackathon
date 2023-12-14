@@ -15,7 +15,7 @@ In a country as linguistically diverse as South Africa, effective language ident
 
 The competition is evaluated based on the [Mean F1-Score](https://www.kaggle.com/wiki/MeanFScore). The F1 score, a combination of precision and recall, serves as the metric for assessing the accuracy of language identification models.
 
-## Directory Structure
+## Files
 
 - **`.csv`**: Contains the dataset used for training and testing.
 - **`.ipynb`**: Jupyter notebooks for data exploration, preprocessing, and model development.
