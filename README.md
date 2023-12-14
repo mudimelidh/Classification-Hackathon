@@ -25,8 +25,8 @@ The competition is evaluated based on the [Mean F1-Score](https://www.kaggle.com
 
 1. Clone this repository: `git clone https://github.com/mudimelidh/multilingual-language-identification.git`
 2. Navigate to the project directory: `cd multilingual-language-identification`
-3. Install dependencies: `pip install -r requirements.txt`
-4. Explore the Jupyter notebooks in the `notebooks` directory for data analysis and model development.
+3. Install dependencies:
+4. Explore the Jupyter notebook in the directory for data analysis and model development.
 5. Experiment with different NLP techniques and models to enhance language identification accuracy.
 6. Submit your predictions in the specified format on Kaggle and evaluate your model against the Mean F1-Score.
 
